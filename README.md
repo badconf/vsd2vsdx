@@ -11,10 +11,7 @@ This PowerShell script converts Visio files with the `.vsd` extension to the new
 
 1. **Set the Directory:** Modify the `$dir` variable in the script to point to the directory containing the `.vsd` files you want to convert. By default, it's set to the current directory (`'.'`).
 
-2. **Run the Script:** Open PowerShell and navigate to the directory where the script is located. Run the script using the following command:
-   \```shell
-   .\vsd2vsdx.ps1
-   \```
+2. **Run the Script:** Open PowerShell and navigate to the directory where the script is located. Run the script using the following command: `.\vsd2vsdx.ps1`
 
 3. **Conversion Process:** The script will process each `.vsd` file in the specified directory, convert it to `.vsdx`, and save it in the same location. Progress messages will be displayed in the console.
 
