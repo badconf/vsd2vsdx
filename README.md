@@ -26,4 +26,4 @@ This PowerShell script converts Visio files with the `.vsd` extension to the new
 
 ## License
 
-🔓 Licensed under [Creative Commons Public Domain (CC0)](LICENSE).
+🔓 Licensed under [MIT License](LICENSE).
